@@ -1,0 +1,2 @@
+/* rev-e5c12b-20260905 */
+v1.1.0 - pause bind, night scale, skip wait

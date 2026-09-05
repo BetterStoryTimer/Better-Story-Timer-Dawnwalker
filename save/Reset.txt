@@ -1,0 +1,2 @@
+/* rev-e5c12b-20260905 */
+reset clock to vanilla on disable

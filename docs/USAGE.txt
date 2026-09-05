@@ -1,0 +1,2 @@
+/* rev-e5c12b-20260905 */
+drop next to reframework, insert opens panel
